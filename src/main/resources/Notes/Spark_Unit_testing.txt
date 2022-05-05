@@ -1,0 +1,5 @@
+https://github.com/lorilew/scala-spark-unit-test-example
+https://github.com/tmalaska/SparkUnitTestingExamples
+https://github.com/zmousa/spark-test
+https://github.com/nagendra-avr/spark-scala-unit-testing
+https://github.com/MrPowers/spark-fast-tests/issues/24

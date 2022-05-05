@@ -59,5 +59,13 @@
             <version>${scala-test.version}</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>MrPowers</groupId>
+            <artifactId>spark-fast-tests</artifactId>
+            <version>0.21.1-s_2.12</version>
+            <scope>test</scope>
+        </dependency>
+
+
     </dependencies>
 </project>
